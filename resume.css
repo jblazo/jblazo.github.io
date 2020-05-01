@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.downloadResume a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.downloadResume a:visited{
+    color: black;
+}
+
+.downloadResume{
+    margin: auto;
+    width: 150px;
+    border: 2px solid grey;
+}

@@ -31,3 +31,31 @@ img{
     display: block;
     border-bottom: 2px solid rgb(70, 100, 184);
 }
+
+h1{
+    margin-block-end: 5px;
+    padding: 0%;
+}
+
+h2{
+    margin-block-start: 0px;
+    margin-block-end: 2px;
+    padding: 0px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+h3{
+    padding-top: 5px;
+    margin: 0px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+ul, li{
+    list-style: none;
+    margin: none;
+    padding-inline-start: 0px;
+}
