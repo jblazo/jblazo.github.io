@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.aboutUs{
+    
+    background-color: aliceblue;
+    margin: auto;
+    width: 70%;
+}
+
+.aboutText{
+    float: left;
+    width: 66%;
+}
+
+.aboutPicture{
+    float: right;
+    max-width: 33%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
