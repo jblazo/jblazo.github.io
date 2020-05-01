@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.profilePicture {
+    margin: 20px;
+    float: left;
+    max-height: 300px;
+    max-width: 233px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.profileIntro{
+    margin: 0px;
+    width: 366px;
+    float: left;
+    text-align: left;
+}
+
+.profile{
+    background-color: aliceblue;
+    padding: 50px;
+    margin: auto;
+    width: 800px;
+    height: 350px;
+}
+
+.nameandtitle{
+    display: block;
+    border-bottom: 2px solid rgb(70, 100, 184);
+}
