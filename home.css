@@ -23,8 +23,9 @@ img{
     background-color: aliceblue;
     padding: 50px;
     margin: auto;
-    width: 1200px;
-    height: 350px;
+    margin-top: 25px;
+    width: 70%;
+    height: 40em;
 }
 
 .nameandtitle{
