@@ -4,15 +4,17 @@
     background-color: aliceblue;
     margin: auto;
     width: 70%;
-    height: 500px;
-    display: block;
+    height: auto;
     margin-top: 25px;
+    display: flex;
 }
 
 .aboutText{
     float: left;
     padding: 5px;
     max-width: 60%;
+    height: 100%;
+    margin: 0 auto;
 }
 
 .aboutPicture{
@@ -20,7 +22,7 @@
     float: right;
     max-width: 33%;
     max-height: 90%;
-    display: block;
+    display: flex;
     overflow: hidden;
 }
 
@@ -34,4 +36,8 @@ h2.aboutHeading{
     padding-left: 10px;
     text-align: left;
     margin-left: 0px;
+}
+
+.aboutHeading{
+    border-bottom: 2px solid rgb(70, 100, 184);
 }
